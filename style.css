@@ -1,0 +1,50 @@
+.body{
+    padding:0;
+    margin:0;
+    background-color:rgb(112, 231, 158);
+}
+
+.sub-body{
+    padding:0;
+    margin:0;
+    background-color:rgb(112, 231, 158);
+    Color: red;
+    text-align: center;
+   }
+
+.call{
+    display:inline;
+    font-size: 4vh;
+    color: blue;
+    text-align: center;
+    background-color:;
+}
+.vegetarian{
+font-size: 10vh;
+color: green;
+text-align: center;
+}
+.mexican{
+font-size: 15vh;
+color:white;
+}
+
+.menu{
+font-size: 10vh;
+color: red;
+}
+
+.vegetarian, .mexican, .menu{
+    text-align: center;
+}
+.top-p1{
+    font-size: 5vh;
+    text-align: center;
+    color:black;
+}
+.sub-p1, .sub-p2, .sub-p3, .sub-p4{
+    color: black;
+    font-size: 3vh;
+    text-align: center;
+
+}
